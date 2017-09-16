@@ -1,0 +1,9 @@
+
+import ('moment').then(function(moment){
+    console.log(moment().format('dddd'));
+});
+
+sass autoprefixer lire tuto
+
+npm install --python=python2.7
+npm config set python python2.7
